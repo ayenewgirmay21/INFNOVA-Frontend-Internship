@@ -197,14 +197,13 @@ src
 
 ## 1. Clone Repository
 
-```bash
 git clone https://github.com/your-username/intern-dashboard.git
 
 Move into project:
 
 cd intern-dashboard
 2. Install Dependencies
-npm install
+  npm install
 3. Environment Configuration
 
 Create:
@@ -216,7 +215,6 @@ Add:
 VITE_API_URL=https://infnova-intern.vercel.app/api
 4. Start Development Server
 npm run dev
-
 Application runs at:
 
 http://localhost:5173
@@ -312,25 +310,14 @@ More detailed applicant profiles
 Role-based permissions
 Unit and integration testing
 👨‍💻 Developer
-
-Ayenew Girmay
-
+Ayenew Girmay Areke
 Frontend Developer | Electrical & Computer Engineering Graduate
-
 Passionate about:
-
 React Development
 Full Stack Applications
 Open Source
 Modern Web Technologies
-📄 License
-
 This project was developed as part of the INFNOVA Frontend Internship Challenge.
-
 <div align="center">
-
 ⭐ Thank you for reviewing my project!
-
-</div> ```
-
-### Authentication
+</div> 
