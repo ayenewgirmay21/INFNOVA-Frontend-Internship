@@ -78,9 +78,8 @@ Available actions:
 The application consumes the provided INFNOVA REST API.
 
 Implemented endpoints:
-### Authentication
-POST /auth/login
 
+POST /auth/login
 
 Login and receive access token.
 
@@ -88,20 +87,14 @@ Login and receive access token.
 
 ### Current User
 
-
 GET /auth/me
-
 
 Retrieve authenticated user information.
 
 ---
-
 ### Applicants
 
-
 GET /applicants
-
-
 Features:
 
 - Pagination
@@ -110,20 +103,63 @@ Features:
 - Sorting
 - Loading simulation
 - Error simulation
-
-
-
 GET /applicants/{id}
-
 
 Retrieve applicant details.
 
-
-
 PATCH /applicants/{id}/status
-
-
 Update applicant application status.
+
+
+# 📸 Screenshots
+
+## 🔐 Login Page
+
+<img src="./src/assets/login.png" width="900">
+
+## 📊 Dashboard
+
+<img src="./src/assets/dashboard.png" width="900">
+
+## 📊 applicant-detail
+
+<img src="./src/assets/applicant-detail.png" width="900">
+
+## 📊applicants-api
+
+<img src="./src/assets/applicants-api.png" width="900">
+
+## 📊 GET applicant by email
+
+<img src="./src/assets/GET applicant by email.png" width="900">
+
+## 📊 GET applicant by name
+
+<img src="./src/assets/GET applicant by name.png" width="900">
+
+## 📊 GET applicant by status
+
+<img src="./src/assets/GET applicant by status.png" width="900">
+
+## 📋 login-api
+
+<img src="./src/assets/login-api.png" width="900">
+
+## 👤 para list
+
+<img src="./src/assets/para list.png" width="900">
+
+## 📋 Para result
+
+<img src="./src/assets/Para result.png" width="900">
+
+## 📋 post login
+
+<img src="./src/assets/post login.png" width="900">
+
+## 📋 update-status
+
+<img src="./src/assets/update-status.png" width="900">
 
 ---
 
