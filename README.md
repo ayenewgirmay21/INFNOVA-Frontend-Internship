@@ -1,5 +1,5 @@
 # 🚀 INFNOVA Internship Challenge — Applicant Dashboard
-
+Vercel link:https://infnova-frontend-internship.vercel.app/
 <div align="center">
 
 # Applicant Management Dashboard
@@ -115,51 +115,51 @@ Update applicant application status.
 
 ## 🔐 Login Page
 
-<img src="./src/assets/login.png" width="900">
+<img src="./src/assets/login.PNG" width="900">
 
 ## 📊 Dashboard
 
-<img src="./src/assets/dashboard.png" width="900">
+<img src="./src/assets/dashboard.PNG" width="900">
 
 ## 📊 applicant-detail
 
-<img src="./src/assets/applicant-detail.png" width="900">
+<img src="./src/assets/applicant-detail.PNG" width="900">
 
 ## 📊applicants-api
 
-<img src="./src/assets/applicants-api.png" width="900">
+<img src="./src/assets/applicants-api.PNG" width="900">
 
 ## 📊 GET applicant by email
 
-<img src="./src/assets/GET applicant by email.png" width="900">
+<img src="./src/assets/GET applicant by email.PNG" width="900">
 
 ## 📊 GET applicant by name
 
-<img src="./src/assets/GET applicant by name.png" width="900">
+<img src="./src/assets/GET applicant by name.PNG" width="900">
 
 ## 📊 GET applicant by status
 
-<img src="./src/assets/GET applicant by status.png" width="900">
+<img src="./src/assets/GET applicant by status.PNG" width="900">
 
 ## 📋 login-api
 
-<img src="./src/assets/login-api.png" width="900">
+<img src="./src/assets/login-api.PNG" width="900">
 
 ## 👤 para list
 
-<img src="./src/assets/para list.png" width="900">
+<img src="./src/assets/para list.PNG" width="900">
 
 ## 📋 Para result
 
-<img src="./src/assets/Para result.png" width="900">
+<img src="./src/assets/Para result.PNG" width="900">
 
 ## 📋 post login
 
-<img src="./src/assets/post login.png" width="900">
+<img src="./src/assets/post login.PNG" width="900">
 
 ## 📋 update-status
 
-<img src="./src/assets/update-status.png" width="900">
+<img src="./src/assets/update-status.PNG" width="900">
 
 ---
 
@@ -226,14 +226,13 @@ src
 ├── helpers.ts
 └── validators.ts
 
-
 ---
 
 # ⚙️ Installation & Setup
 
 ## 1. Clone Repository
 
-git clone https://github.com/your-username/intern-dashboard.git
+git clone https://github.com/ayenewgirmay21/INFNOVA-Frontend-Internship
 
 Move into project:
 
@@ -241,13 +240,11 @@ cd intern-dashboard
 2. Install Dependencies
   npm install
 3. Environment Configuration
-
 Create:
 
 .env
 
 Add:
-
 VITE_API_URL=https://infnova-intern.vercel.app/api
 4. Start Development Server
 npm run dev
@@ -336,9 +333,7 @@ Safer API handling
 Better developer experience
 Reduced runtime errors
 🚀 Future Improvements
-
 Possible enhancements:
-
 Advanced applicant analytics
 Export applicant data
 Dark mode support
