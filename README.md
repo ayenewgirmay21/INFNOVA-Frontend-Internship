@@ -115,11 +115,11 @@ Update applicant application status.
 
 ## 🔐 Login Page
 
-<img src="./src/assets/login.PNG" width="900">
+<img src="./src/assets/Login.PNG" width="900">
 
-## 📊 Dashboard
+## 📊 dashboaard
 
-<img src="./src/assets/dashboard.PNG" width="900">
+<img src="./src/assets/dashboaard.PNG" width="900">
 
 ## 📊 applicant-detail
 
